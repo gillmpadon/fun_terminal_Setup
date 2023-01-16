@@ -1,0 +1,14 @@
+"defaults": 
+        {
+            "cursorShape": "underscore",
+            "font": 
+            {
+                "face": "JetBrainsMonoNL Nerd Font Mono",
+                "size": 12,
+                "weight": "bold"
+            },
+            "opacity": 100,
+            "padding": "40",
+            "startingDirectory": "C:\\users\\gillb",
+            "useAcrylic": true
+        }
