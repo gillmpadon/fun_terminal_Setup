@@ -35,7 +35,7 @@ Type `choco` or `choco -? to see if installed
     Install font jetbrains
 ```
 ```
-    install JanDeDobbeleer.OhMyPosh -s winget
+    winget install JanDeDobbeleer.OhMyPosh -s winget
 ```
 
 ### STEP 4: Setting Up your Terminal
@@ -53,7 +53,7 @@ https://mridgers.github.io/clink/
 ```
 ```
 Create "oh-my-posh.lua" file inside the clink directory​
-Example Directory : C:\Users\gillb\AppData\Local\clink​
+Example Directory : C:\\Users\\gillb\\AppData\\Local\\clink​
 
 ```
 #### COPY PASTE CODE TO "oh-my-posh.lua" FILE
